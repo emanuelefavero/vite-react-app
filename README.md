@@ -2,6 +2,17 @@
 
 This is a template for creating a React project with Vite, Typescript, ESLint, Sass
 
+## Quick Start using degit
+
+#### _NOTE: need to install degit first with `npm i -g degit`_
+
+```bash
+degit emanuelefavero/vite-react-app my-app
+cd my-app
+npm install
+npm run dev
+```
+
 ## Usage
 
 - clone this repo

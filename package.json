@@ -12,8 +12,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "sass": "^1.56.1"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
@@ -23,6 +22,7 @@
     "@vitejs/plugin-react": "^2.2.0",
     "eslint": "^8.29.0",
     "eslint-plugin-react": "^7.31.11",
+    "sass": "^1.56.1",
     "typescript": "^4.6.4",
     "vite": "^3.2.3"
   }
